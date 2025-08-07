@@ -1,0 +1,116 @@
+h1 {
+    color: gold;
+    background-color: rgb(101, 80, 239);
+    border-radius: 10px;
+    text-align: center;
+    font-size: 300%;
+    
+}
+h2 {
+    color: gold;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+h3 {
+    text-align: center;
+}
+body {
+    background-color: #b3e4d6
+}
+
+p {
+    color: rgb(20, 20, 20);
+    font-family: Helvetica, sans-serif;
+    font-weight: medium;
+    font-size: 100%;
+}
+
+.classtest {
+    color: rgb(227, 97, 119);
+}
+
+.classtest :hover{
+    border: 5px solid red;
+    transition: 1ms;
+}
+
+#idtest {
+    color: rgb(214, 114, 234);
+}
+
+#table_style {
+    background-color: rgb(237, 225, 247);
+    border-collapse: collapse;
+    border: solid 2px;
+    color: rgb(0, 0, 0);
+    width: 70%;
+}
+
+#table_style th {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#table_style tr {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+}
+
+#table_style td {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: light;
+}
+
+.tftable {
+    font-size:12px;color:#333333;
+    width:50%;
+    border-width: 1px;
+    border-color: #729ea5;
+    border-collapse: collapse;
+}
+
+.tftable th {
+    font-size:18px;
+    background-color:#f3b4f2;
+    border-width: 2px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #000000;
+    text-align:center;
+
+}
+.tftable tr {
+    background-color:#f8d9f7;
+    text-align: center;
+}
+
+.tftable td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px;
+    border-width: 2px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+.tftable tr:hover {
+    background-color:#ffffff;
+}
+
+.number {
+   font-weight: bold;
+}
+
+.weschooltext {
+    color: ebebeb;
+}

@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(173, 173, 251);
+    background-color: rgb(17, 139, 129);
+}
+body {
+    background-color: rgb(82, 167, 207);
+}
+
+p {
+    color: white;
+}
+
+.watup {
+    color: red;
+}
+
+#wassup {
+    color: blue;
+}
